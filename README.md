@@ -5,7 +5,7 @@ This repository contains two projects focusing on synchronization and concurrenc
 ## Summer Spectacular
 
 ### Overview
-The "Summer Spectacular" project simulates an event organized by CircusJazz, LLC. Performers, including Flamenco dancers, torch jugglers, and duets, must take the stage independently, creating an improvisational masterpiece.
+The "Summer Spectacular" program simulates an event organized by CircusJazz, LLC. Performers, including Flamenco dancers, torch jugglers, and duets, must take the stage independently, creating an improvisational masterpiece.
 
 ### Features
 - Synchronization using mutexes and condition variables or semaphores.
@@ -23,7 +23,7 @@ The "Summer Spectacular" project simulates an event organized by CircusJazz, LLC
 ## Shipping Shape-Up
 
 ### Overview
-The "Shipping Shape-Up" project addresses challenges faced by shipping company FedOops. With a customer-centric initiative, logistics workers in color-coded teams compete to process packages efficiently, involving customers in the delivery process.
+The "Shipping Shape-Up" program addresses challenges faced by shipping company FedOops. With a customer-centric initiative, logistics workers in color-coded teams compete to process packages efficiently, involving customers in the delivery process.
 
 ### Features
 - Customer-dictated processing steps.
